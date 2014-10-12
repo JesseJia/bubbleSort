@@ -30,10 +30,10 @@ class sort9323 {
 		//FileWriter fw = new FileWriter(path, true);
 		//PrintWriter pw = new PrintWriter(fw);
 		
-		for (int i = 0; i < array.length; i++) {
-			//pw.println(array[i]);
-			System.out.println(array[i]);
-		}
+		//for (int i = 0; i < array.length; i++) {
+		//	//pw.println(array[i]);
+		//	System.out.println(array[i]);
+		//}
 		//pw.close();
 		//fw.close();
 
