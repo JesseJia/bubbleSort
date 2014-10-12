@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.Random;
 
-public class sort9323 {
+class sort9323 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
