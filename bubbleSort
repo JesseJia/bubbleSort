@@ -20,7 +20,7 @@ class sort9323 {
 		}
 		String path;
 		//bubble sort
-		path = "/Users/zhuangjia/Documents/comp9323/bubbleSort.txt";
+		//path = "/Users/zhuangjia/Documents/comp9323/bubbleSort.txt";
 		bubbleSort(array);
 		
 		//quick sort
