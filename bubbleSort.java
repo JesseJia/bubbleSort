@@ -7,7 +7,7 @@ import java.io.*;
 /* Name of the class has to be "Main" only if the class is public. */
 class bubbleSort
 {
-	public static void main (String[] args)
+	public static void main (String[] args) throws IOException 
 	{
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
