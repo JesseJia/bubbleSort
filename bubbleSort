@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class sort9323 {
+class Ideone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
