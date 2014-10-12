@@ -1,6 +1,5 @@
 
 
-class sort9323 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
@@ -94,6 +93,5 @@ class sort9323 {
 		array[i] = array[j];
 		array[j] = temp;
 	}
-}
 
 
